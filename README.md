@@ -26,15 +26,13 @@ Building scalable systems, matching engines, distributed services, and high-perf
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/StackedByAdit/StackedByAdit/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```yaml
 name: Aditya Gupta
@@ -58,7 +56,7 @@ currently_building:
 ---
 
 <details open>
-<summary><h2>⚡ Tech Arsenal</h2></summary>
+<summary><h2> Tech Arsenal</h2></summary>
 
 <br>
 
@@ -192,7 +190,7 @@ currently_building:
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StackedByAdit&theme=tokyo-night&hide_border=true" width="100%" />
 

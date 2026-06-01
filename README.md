@@ -16,7 +16,7 @@ Building scalable systems, matching engines, distributed services, and high-perf
 
 <td width="35%" align="center">
 
-<img src="./assets/pain.gif" width="100%" />
+<img src="./assets/8995577.gif" width="100%" />
 
 </td>
 </tr>

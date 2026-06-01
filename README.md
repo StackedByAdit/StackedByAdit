@@ -1,18 +1,36 @@
 <div align="center">
 
-<img src="./assets/pain.gif" width="100%" />
+<table>
+<tr>
+<td width="65%" align="left">
 
 # Aditya Gupta
 
 ### Software Engineer • Systems Builder • Backend Enthusiast
 
-<p>
 Building scalable systems, matching engines, distributed services, and high-performance backend applications.
-</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Distributed+Systems+Enthusiast;Building+Production+Grade+Systems;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Distributed+Systems+Enthusiast;Building+Production+Grade+Systems;Always+Learning+Something+New" />
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/pain.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StackedByAdit/StackedByAdit/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -46,57 +64,88 @@ currently_building:
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,ts,js,python" />
 </p>
 
+---
+
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
 </p>
 
+---
+
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
 </p>
 
+---
+
 ### Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase" />
 </p>
 
+---
+
 ### Cloud & DevOps
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,nginx,linux,githubactions" />
 </p>
 
+---
+
 ### Tools & Services
 
-<p>
+<p align="center">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman" />
 </p>
 
-<p>
+<br>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+
 <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
+<br><br>
+
 <img src="https://img.shields.io/badge/TurboRepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
+
 <img src="https://img.shields.io/badge/TRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+
 </p>
 
 </details>
@@ -131,12 +180,14 @@ currently_building:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=StackedByAdit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=StackedByAdit&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=StackedByAdit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=StackedByAdit&theme=tokyonight&hide_border=true"/>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackedByAdit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackedByAdit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -144,16 +195,6 @@ currently_building:
 # 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StackedByAdit&theme=tokyo-night&hide_border=true" width="100%" />
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StackedByAdit/StackedByAdit/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> Note: The snake will only appear after you set up the GitHub Action that generates it.
 
 ---
 

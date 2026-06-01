@@ -29,7 +29,7 @@ Building scalable systems, matching engines, distributed services, and high-perf
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StackedByAdit/StackedByAdit/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/StackedByAdit/StackedByAdit/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---

@@ -95,7 +95,7 @@ currently_building:
 ### Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,nginx,linux,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,githubactions" />
 </p>
 
 ---

@@ -150,31 +150,6 @@ currently_building:
 
 ---
 
-# ⚡ Featured Projects
-
-## Centralized Exchange (CEX)
-
-```diff
-+ In-memory Matching Engine
-+ Real-time Order Processing
-+ Price-Time Priority
-+ Event Driven Architecture
-+ PostgreSQL Persistence
-+ Redis Caching
-```
-
-## Real-Time Trading Infrastructure
-
-```diff
-+ WebSocket Architecture
-+ Order Book Engine
-+ Trade Execution
-+ Candlestick Generation
-+ Market Data Streaming
-```
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">

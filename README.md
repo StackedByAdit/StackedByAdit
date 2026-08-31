@@ -45,12 +45,11 @@ interests:
   - System Design
   - DevOps
   - Cloud Infrastructure
-  - Trading Systems
 
 currently_building:
-  - Centralized Exchange Engine
-  - Real-time Order Matching Systems
   - High Throughput Backend Services
+  - Autonomous Coding Agents & Software Engineering Infrastructure
+  - Agentic Development Platforms & AI-Powered Application Builders
 ```
 
 ---
